@@ -1,0 +1,5 @@
+data/synthetic/transactions.csv
+
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
