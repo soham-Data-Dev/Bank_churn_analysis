@@ -1,0 +1,16 @@
+feature,importance
+products_number,0.23528941
+active_member,0.18370707
+age,0.119991064
+country_Germany,0.10065965
+balance,0.052341416
+gender_Male,0.04474471
+country_Spain,0.03642939
+estimated_salary,0.030419352
+digital_transactions,0.029441383
+customer_id,0.029085066
+credit_score,0.028860735
+avg_transaction_amount,0.028810887
+tenure,0.028378617
+total_transactions,0.02637761
+digital_txn_ratio,0.02546367
