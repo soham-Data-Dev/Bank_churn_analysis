@@ -359,10 +359,18 @@ Possible enhancements:
 # Deployment Link
 
 ```text
-Add your Streamlit deployment URL here
+https://bankchurnanalysis-ltwaex3zxvqj7revzmnbmq.streamlit.app/
 ```
+# Docker Deployment
 
-
+* Build Docker Image
+  ```
+  docker build -t churn-app .
+  ```
+* Run Container
+  ```
+  docker run -p 8501:8501 churn-app
+  ```
 # Conclusion
 
 This project demonstrates how data analytics and machine learning can be combined to solve real banking business problems.
